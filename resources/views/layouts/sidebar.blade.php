@@ -65,6 +65,10 @@
                     <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                     User
                 </a>
+                <a class="nav-link" href={{ route('orders') }}>
+                    <div class="sb-nav-link-icon"><i class="fa fa-money"></i></div>
+                    Order
+                </a>
             </div>
         </div>
         <div class="sb-sidenav-footer">
